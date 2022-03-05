@@ -1,6 +1,6 @@
 # tradecore
 
-This is a repository for a web application developed with Django, built with [Crowdbotics](https://crowdbotics.com)
+This is a repository for a web application developed with Django
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This is a repository for a web application developed with Django, built with [Cr
 
     ..
     ├── home                           # Starter home app
-    ├── modules                        # Crowdbotics Modules app
+    ├── modules                        # Modules app
     ├── tradecore  # Django project configurations
     ├── static                         # Static assets
     ├── users                          # Starter users app
@@ -109,7 +109,7 @@ This project is set up to run using [Docker Compose](https://docs.docker.com/com
 
 ## Admin Panel
 
-Admin Panel can be accessed through http://localhost:8000/admin/. If you are the Project Owner, admin credentials can be generated from App > Settings on [Crowdbotics App Dashboard](https://app.crowdbotics.com/). If not, please request your PM or Project Owner to generate admin credentials and share with you.
+Admin Panel can be accessed through http://localhost:8000/admin/.
 
 ## API Documentation
 
