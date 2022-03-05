@@ -1,0 +1,10 @@
+*.pyc
+env/
+.terraform
+.env
+staticfiles/
+postgres-data/
+.idea/
+.idea/workspace.xml
+home/migrations/
+
